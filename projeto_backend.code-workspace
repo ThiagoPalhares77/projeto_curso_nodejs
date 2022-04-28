@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PROJETO BACK END FINAL"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"pgOptions": {
+					"ssl": {
+						"rejectUnauthorized": false
+					}
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"askForPassword": true,
+				"driver": "PostgreSQL",
+				"name": "heroku",
+				"connectString": "postgres://izjnrvttqmsrnx:cf8623cb32565b5dc413dadbcecf4f703bf7864bcfabf525051d1892b5e0c77c@ec2-3-211-6-217.compute-1.amazonaws.com:5432/dd87l6hq74h614"
+			}
+		]
+	}
+}
